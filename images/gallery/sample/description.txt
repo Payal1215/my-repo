@@ -1,0 +1,3 @@
+Album title
+An optional description of the album that will be parsed by Markdown.
+It can have multiple lines.
